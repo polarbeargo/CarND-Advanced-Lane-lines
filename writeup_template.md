@@ -147,7 +147,7 @@ from moviepy.editor import VideoFileClip
 
 output = 'Test.mp4'
 clip1 = VideoFileClip("project_video.mp4")
-output_clip = clip1.fl_image(process_frame)
+output_clip = clip1.fl_image(video_pipeline)
 
 %time output_clip.write_videofile(output, audio=False)
 ```
