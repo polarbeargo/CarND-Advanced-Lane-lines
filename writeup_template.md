@@ -18,8 +18,8 @@ The goals / steps of this project are the following:
 [image3]: ./examples/binary.png "Binary Example"
 [image4]: ./examples/binary_warped.png "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/detect_lane.png "Output"
-[image7]: ./examples/lane detect.png "Lane detect histogram"
+[image6]: ./examples/detect_lane.png "Output"  
+[image7]: ./examples/lane_detect.png "Lane detect histogram"
 [image8]: ./examples/plot.png "Plot"
 [video1]: ./Test.mp4 "Video"
 
