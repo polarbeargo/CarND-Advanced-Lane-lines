@@ -20,9 +20,8 @@ The goals / steps of this project are the following:
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
 [image6]: ./examples/detect_lane.png "Output"  
 [image7]: ./examples/lane_detect.png "Lane detect histogram"
-[image8]: ./examples/plot.png "Plot"
-[video1]: ./Test.mp4 "Video"
-
+[image8]: ./examples/plot.png "Plot"  
+ 
 ### Camera Calibration
 
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
